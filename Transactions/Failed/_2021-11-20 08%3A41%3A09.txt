@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: ,
+Transaction Id: 211120109452711,
+Transaction Amount: 100,
+Total Amount: 100.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 20-11-2021 20:40:58,
+Response_Code: E008

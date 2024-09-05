@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1010040001,
+Transaction Id: 220402117413918,
+Transaction Amount: 200,
+Total Amount: 200.00, 
+Payment Mode: DEBIT_CARD,
+Transaction Date-Time: 02-04-2022 15:27:12,
+Response_Code: E008

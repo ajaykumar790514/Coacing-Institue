@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1101120010,
+Transaction Id: 19112659707720,
+Transaction Amount: 300,
+Total Amount: 300.00, 
+Payment Mode: DEBIT_CARD,
+Transaction Date-Time: 26-11-2019 19:44:53,
+Response_Code: E000

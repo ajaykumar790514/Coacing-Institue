@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 20091075168476,
+Transaction Amount: 300,
+Total Amount: 300.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 10-09-2020 12:38:41,
+Response_Code: E000

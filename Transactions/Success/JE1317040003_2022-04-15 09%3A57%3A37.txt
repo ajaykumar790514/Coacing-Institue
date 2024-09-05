@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1317040003,
+Transaction Id: 220415118977918,
+Transaction Amount: 200,
+Total Amount: 200.00, 
+Payment Mode: DEBIT_CARD,
+Transaction Date-Time: 15-04-2022 21:57:26,
+Response_Code: E000

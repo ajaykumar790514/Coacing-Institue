@@ -1,0 +1,80 @@
+#main{
+    user-select: none;
+}
+.btn-gallery{
+    background: #0093dd;
+    color: #fff;
+    transition: .3s;
+    border-radius: 2px;
+    margin-bottom: 3.5px;
+}
+
+.btn-gallery:hover{
+    color: #0093dd;
+    background: #fff;
+    transform: scale(1.04);
+    box-shadow: 0px 0px 6px 1px;
+}
+.btn-gallery.active,
+.btn-gallery:active{
+    background: #0093dd!important;
+    color: #fff!important;
+}
+.gallery{
+    margin-top:10px ;
+}
+.gallery>figure{
+    padding-bottom: 30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    height: 200px;
+    width: 100%!important;
+    display: flex;
+    position: relative;
+    justify-content: center!important;
+}
+.gallery>figure>img{
+    /*border-radius: 5px;*/
+    width: auto!important;
+    max-width: 100%!important;
+    height: auto!important;
+    max-height: 159px!important;
+    transition: all 0.3s;
+    margin: auto!important;
+    cursor: zoom-in;
+}
+        
+.gallery>figure>.delete-btn{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.gallery>figure>p{
+    position: absolute;
+    bottom: 0;
+    margin: 5px;
+}
+.full {
+    display: none;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    top: 0;
+    position: fixed;
+    background-color: #0e0e0eab;
+    z-index: 99999999;
+    text-align: center;
+    cursor: zoom-out;
+    padding: 5px;
+}
+.full-img{
+    width: auto!important;
+    max-width: 100%!important;
+    height: auto!important;
+    max-height: 100%!important;
+    margin: auto!important;
+    margin: auto;
+    cursor: zoom-out;
+}

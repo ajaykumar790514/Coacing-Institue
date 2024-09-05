@@ -1,0 +1,7 @@
+Transaction status: Failed,
+Transaction Id: ,
+Transaction Amount: ,
+Total Amount: , 
+Payment Mode: ,
+Transaction Date-Time: ,
+Response_Code: 

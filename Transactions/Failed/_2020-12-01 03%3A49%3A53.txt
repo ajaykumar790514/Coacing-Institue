@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: ,
+Transaction Id: 20120181892728,
+Transaction Amount: 300,
+Total Amount: 330.00, 
+Payment Mode: CASH,
+Transaction Date-Time: 01-12-2020 15:49:52,
+Response_Code: E00327

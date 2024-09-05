@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: TESTSTUDENT123,
+Transaction Id: 19120259965570,
+Transaction Amount: 1,
+Total Amount: 1.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 02-12-2019 17:28:09,
+Response_Code: E000

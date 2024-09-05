@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1119070005,
+Transaction Id: 20071871473139,
+Transaction Amount: 300,
+Total Amount: 300.00, 
+Payment Mode: DEBIT_CARD,
+Transaction Date-Time: 18-07-2020 13:37:17,
+Response_Code: E0819

@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 20122683947092,
+Transaction Amount: 200,
+Total Amount: 216.00, 
+Payment Mode: NET_BANKING_ICICI,
+Transaction Date-Time: 26-12-2020 12:20:21,
+Response_Code: E000

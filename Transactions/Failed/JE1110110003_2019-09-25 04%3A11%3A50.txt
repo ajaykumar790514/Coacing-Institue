@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1110110003,
+Transaction Id: 123456789024,
+Transaction Amount: 1000,
+Total Amount: 1016.00, 
+Payment Mode: NET_BANKING_ICICI,
+Transaction Date-Time: 23-09-2019 16:30:24,
+Response_Code: E001

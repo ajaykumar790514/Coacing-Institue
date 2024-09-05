@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1109040030,
+Transaction Id: 230408146946905,
+Transaction Amount: 500,
+Total Amount: 516.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 08-04-2023 11:35:40,
+Response_Code: E000

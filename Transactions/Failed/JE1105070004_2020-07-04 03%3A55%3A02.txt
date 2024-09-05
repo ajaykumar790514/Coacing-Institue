@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1105070004,
+Transaction Id: 20070470156298,
+Transaction Amount: 300,
+Total Amount: 303.36, 
+Payment Mode: CREDIT_CARD,
+Transaction Date-Time: 04-07-2020 15:55:01,
+Response_Code: E0805

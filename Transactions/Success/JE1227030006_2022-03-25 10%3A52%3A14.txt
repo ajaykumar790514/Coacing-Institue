@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1227030006,
+Transaction Id: 220325116732543,
+Transaction Amount: 200,
+Total Amount: 200.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 25-03-2022 10:50:18,
+Response_Code: E000

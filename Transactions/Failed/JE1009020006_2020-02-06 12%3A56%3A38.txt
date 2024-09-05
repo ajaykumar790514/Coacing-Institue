@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1009020006,
+Transaction Id: 20020663313581,
+Transaction Amount: 300,
+Total Amount: 303.36, 
+Payment Mode: CREDIT_CARD,
+Transaction Date-Time: 06-02-2020 12:56:37,
+Response_Code: E0825

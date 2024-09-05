@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1101050001,
+Transaction Id: ,
+Transaction Amount: ,
+Total Amount: , 
+Payment Mode: ,
+Transaction Date-Time: ,
+Response_Code: E00335

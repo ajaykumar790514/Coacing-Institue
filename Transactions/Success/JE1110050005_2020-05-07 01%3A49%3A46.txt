@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1110050005,
+Transaction Id: 20050766805538,
+Transaction Amount: 300,
+Total Amount: 303.36, 
+Payment Mode: CREDIT_CARD,
+Transaction Date-Time: 07-05-2020 13:49:45,
+Response_Code: E000

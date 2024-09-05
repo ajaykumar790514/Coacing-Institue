@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1102040051,
+Transaction Id: 230331146219166,
+Transaction Amount: 500,
+Total Amount: 516.00, 
+Payment Mode: NET_BANKING_ICICI,
+Transaction Date-Time: 31-03-2023 21:15:59,
+Response_Code: E000

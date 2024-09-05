@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 21011485782610,
+Transaction Amount: 400,
+Total Amount: 400.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 14-01-2021 15:25:58,
+Response_Code: E000

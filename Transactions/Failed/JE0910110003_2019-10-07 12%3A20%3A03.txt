@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE0910110003,
+Transaction Id: 19100757034713,
+Transaction Amount: 200,
+Total Amount: 216.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 07-10-2019 00:20:21,
+Response_Code: E0803

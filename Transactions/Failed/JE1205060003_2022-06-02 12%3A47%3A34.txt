@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1205060003,
+Transaction Id: 220602122703085,
+Transaction Amount: 200,
+Total Amount: 200.00, 
+Payment Mode: DEBIT_CARD,
+Transaction Date-Time: 02-06-2022 12:47:30,
+Response_Code: E0807

@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1022030002,
+Transaction Id: ,
+Transaction Amount: ,
+Total Amount: , 
+Payment Mode: ,
+Transaction Date-Time: ,
+Response_Code: E006

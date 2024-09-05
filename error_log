@@ -1,0 +1,5 @@
+[05-Nov-2016 16:15:27 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on a non-object in /home/foodsva/public_html/foodsva/application/views/admin/add_restaurent.php on line 57
+[05-Nov-2016 16:15:27 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on a non-object in /home/foodsva/public_html/foodsva/application/views/admin/add_restaurent.php on line 57
+[11-Nov-2016 12:16:16 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on a non-object in /home/foodsva/public_html/foodsva/application/views/admin/add_restaurent.php on line 57
+[11-Nov-2016 12:16:21 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on a non-object in /home/foodsva/public_html/foodsva/application/views/admin/add_restaurent.php on line 57
+[21-Nov-2016 13:25:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'you' (T_STRING) in /home/foodsva/public_html/foodsva/application/controllers/Welcome.php on line 205

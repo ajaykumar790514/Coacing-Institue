@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1121030006,
+Transaction Id: 21031792006741,
+Transaction Amount: 400,
+Total Amount: 416.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 17-03-2021 17:11:32,
+Response_Code: E000

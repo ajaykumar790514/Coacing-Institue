@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 20121883444577,
+Transaction Amount: 400,
+Total Amount: 416.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 18-12-2020 12:27:58,
+Response_Code: E000

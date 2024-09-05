@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1111120021,
+Transaction Id: 221209138463983,
+Transaction Amount: 500,
+Total Amount: 505.60, 
+Payment Mode: CREDIT_CARD,
+Transaction Date-Time: 09-12-2022 17:01:23,
+Response_Code: E0805

@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1110040019,
+Transaction Id: 220409117880470,
+Transaction Amount: 200,
+Total Amount: 230.00, 
+Payment Mode: CASH,
+Transaction Date-Time: 09-04-2022 08:33:33,
+Response_Code: E00327

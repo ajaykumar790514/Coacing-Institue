@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1120120034,
+Transaction Id: 20121983515268,
+Transaction Amount: 400,
+Total Amount: 400.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 19-12-2020 12:14:44,
+Response_Code: E008

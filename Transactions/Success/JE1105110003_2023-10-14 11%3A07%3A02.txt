@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1105110003,
+Transaction Id: 231014166545139,
+Transaction Amount: 300,
+Total Amount: 300.00, 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: 14-10-2023 23:06:52,
+Response_Code: E000

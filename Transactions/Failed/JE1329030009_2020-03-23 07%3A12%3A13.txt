@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1329030009,
+Transaction Id: 20032365503621,
+Transaction Amount: 300,
+Total Amount: 316.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 23-03-2020 19:12:12,
+Response_Code: E0803

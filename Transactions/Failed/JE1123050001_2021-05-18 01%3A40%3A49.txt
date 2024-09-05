@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1123050001,
+Transaction Id: ,
+Transaction Amount: ,
+Total Amount: , 
+Payment Mode: UPI_ICICI,
+Transaction Date-Time: ,
+Response_Code: E00335

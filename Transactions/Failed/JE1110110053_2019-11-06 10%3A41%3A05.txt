@@ -1,0 +1,8 @@
+Transaction status: Failed,
+Registration No: JE1110110053,
+Transaction Id: ICL9110658337857,
+Transaction Amount: 500,
+Total Amount: 506.00, 
+Payment Mode: NEFT_RTGS,
+Transaction Date-Time: 06-11-2019 22:41:24,
+Response_Code: E00329

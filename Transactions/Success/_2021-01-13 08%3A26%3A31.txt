@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 21011385699550,
+Transaction Amount: 400,
+Total Amount: 404.48, 
+Payment Mode: CREDIT_CARD,
+Transaction Date-Time: 13-01-2021 20:26:30,
+Response_Code: E000

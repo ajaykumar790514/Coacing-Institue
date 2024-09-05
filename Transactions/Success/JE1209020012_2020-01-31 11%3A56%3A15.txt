@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1209020012,
+Transaction Id: 20013163087592,
+Transaction Amount: 200,
+Total Amount: 216.00, 
+Payment Mode: NET_BANKING_ICICI,
+Transaction Date-Time: 31-01-2020 11:56:14,
+Response_Code: E000

@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: ,
+Transaction Id: 21011385699315,
+Transaction Amount: 400,
+Total Amount: 416.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 13-01-2021 20:22:03,
+Response_Code: E000

@@ -1,0 +1,8 @@
+Transaction status: Success,
+Registration No: JE1209020008,
+Transaction Id: 20012963001593,
+Transaction Amount: 200,
+Total Amount: 216.00, 
+Payment Mode: NET_BANKING,
+Transaction Date-Time: 29-01-2020 11:00:15,
+Response_Code: E000
